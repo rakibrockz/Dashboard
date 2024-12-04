@@ -1,0 +1,14 @@
+import React from 'react'
+import Design from '../components/Design'
+
+const Wallets = () => {
+  return (
+    <Design>
+    <div className='text-[50px] font-poppins font-bold flex items-center text-center justify-center h-full'>
+      WALLETS
+    </div>
+   </Design>
+  )
+}
+
+export default Wallets
